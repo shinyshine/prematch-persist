@@ -1,0 +1,20 @@
+{
+  "name": "prematch-persist",
+  "version": "1.0.0",
+  "description": "data persistor of prematch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "persist",
+    "prematch",
+    "redux"
+  ],
+  "author": "kuku_lpp",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shinyshine/prematch-persist.git"
+  }
+}
